@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6E63-ED0F
+
+ Directory of C:\Users\sonica.p\Desktop\My project
+
+02-01-2018  00:11    <DIR>          .
+02-01-2018  00:11    <DIR>          ..
+02-01-2018  00:11                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  391,127,142,400 bytes free
